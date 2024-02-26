@@ -32,7 +32,7 @@ mysql-connector-python
 Streamlit
 Plotly
 
-****Domain:** **Fintech
+**Domain:** Fintech
 
 **Features:**
 
